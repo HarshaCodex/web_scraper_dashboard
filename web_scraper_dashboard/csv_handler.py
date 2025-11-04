@@ -1,6 +1,6 @@
 import csv
 
-from constants import company_header, job_header, link_header
+from web_scraper_dashboard.constants import company_header, job_header, link_header
 
 
 def write_to_csv(data, file):

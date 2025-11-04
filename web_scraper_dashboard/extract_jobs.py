@@ -1,4 +1,4 @@
-from constants import company_field, title_field, link_field, company_header, job_header, link_header, main_url
+from web_scraper_dashboard.constants import company_field, title_field, link_field, company_header, job_header, link_header, main_url
 
 
 def extract_jobs(job_listing):
