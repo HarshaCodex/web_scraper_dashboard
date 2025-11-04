@@ -13,5 +13,7 @@ def main():
 
     write_to_csv(jobs, file)
 
+    print(f"Saved data to file:{file}")
+
 if __name__=="__main__":
     main()
