@@ -2,7 +2,6 @@ import sqlite3
 
 from web_scraper_dashboard.constants import job_header, company_header, link_header
 
-
 def connect_to_db():
     try:
         connection = sqlite3.connect('job_listings.db')
@@ -39,21 +38,6 @@ def save_jobs_to_db(jobs):
     except Exception as e:
         print("Exception occurred while inserting data into table:", e)
 
-def get_jobs():
-    try:
-        connection = sqlite3.connect('job_listings.db')
-        cursor = connection.cursor()
-
-        cursor.execute("SELECT * FROM jobs")
-        jobs = cursor.fetchall()
-
-        for job in jobs:
-            print(job)
-
-        connection.close()
-    except Exception as e:
-        print("Exception occurred while getting jobs from table:", e)
-
 def delete_jobs():
     try:
         connection = sqlite3.connect('job_listings.db')
@@ -61,6 +45,7 @@ def delete_jobs():
 
         cursor.execute("DELETE FROM jobs")
 
+        connection.commit()
         connection.close()
     except Exception as e:
         print("Exception occurred while deleting jobs from table:", e)

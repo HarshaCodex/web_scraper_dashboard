@@ -1,5 +1,4 @@
 url = 'https://weworkremotely.com/categories/remote-full-stack-programming-jobs'
-file = '../job_listings.csv'
 job_listing_field = 'new-listing-container feature'
 main_url = 'https://weworkremotely.com'
 company_field = 'new-listing__company-name'

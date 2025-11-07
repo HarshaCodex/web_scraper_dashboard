@@ -1,9 +1,9 @@
-from constants import url, job_listing_field, file
+from constants import url, job_listing_field
 from extract_jobs import extract_jobs
 from web_scraper import scraper
 from bs4 import BeautifulSoup
 
-from web_scraper_dashboard.db_connection_helper import connect_to_db, save_jobs_to_db, get_jobs, delete_jobs
+from web_scraper_dashboard.db_connection_helper import connect_to_db, save_jobs_to_db, delete_jobs
 
 def main():
 
@@ -18,8 +18,6 @@ def main():
     jobs = map(lambda job: extract_jobs(job), job_listings)
 
     save_jobs_to_db(jobs)
-
-    get_jobs()
 
 if __name__=="__main__":
     main()
