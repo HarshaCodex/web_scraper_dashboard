@@ -28,7 +28,7 @@ def save_jobs_to_db(jobs):
         cursor = connection.cursor()
 
         for job in jobs:
-            cursor.execute(f"""
+            cursor.execute("""
                     INSERT INTO jobs (title, company, link) VALUES (?, ?, ?)
                 """, (job[job_header], job[company_header], job[link_header]))
             connection.commit()
