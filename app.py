@@ -9,7 +9,7 @@ app = Flask(__name__)
 app.secret_key = 'supersecretkey'
 
 def job_scraper():
-    connect_to_db()
+    delete_jobs()                 
     save_jobs_to_db(scrape_jobs())
 
 def get_jobs():

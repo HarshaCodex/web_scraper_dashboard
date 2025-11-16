@@ -31,8 +31,7 @@ def save_jobs_to_db(jobs):
             cursor.execute("""
                     INSERT INTO jobs (title, company, link) VALUES (?, ?, ?)
                 """, (job[job_header], job[company_header], job[link_header]))
-            connection.commit()
-
+        connection.commit()
         connection.close()
         print("Jobs saved to database successfully!!!")
     except Exception as e:

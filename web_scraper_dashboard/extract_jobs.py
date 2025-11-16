@@ -1,15 +1,17 @@
-from web_scraper_dashboard.constants import company_field, title_field, link_field, company_header, job_header, link_header, main_url
-
-from web_scraper_dashboard.constants import url, job_listing_field
-from web_scraper_dashboard.web_scraper import scraper
 from bs4 import BeautifulSoup
+
+from web_scraper_dashboard.constants import job_listing_field, company_field, title_field, link_field, job_header, \
+    company_header, link_header, main_url, url
+from web_scraper_dashboard.web_scraper import scraper
+
 
 def scrape_jobs():
     response = scraper(url)
     soup = BeautifulSoup(response, 'html.parser')
     job_listings = soup.find_all('li', class_=job_listing_field)
 
-    jobs = map(lambda job: extract_jobs(job), job_listings)
+    jobs = list(map(lambda job: extract_jobs(job), job_listings))
+    print(jobs)
     return jobs
 
 def extract_jobs(job_listing):

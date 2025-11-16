@@ -13,7 +13,7 @@
     <div class="container mt-5">
       <div class="d-flex justify-content-between align-items-center mb-3">
         <h2>💼 Remote Job Listings</h2>
-        <a href="{{ refresh }}" class="btn btn-primary">🔄 Refresh Jobs</a>
+        <a href="{{ url_for('refresh_jobs') }}" class="btn btn-primary">🔄 Refresh Jobs</a>
       </div>
 
       {% with messages = get_flashed_messages() %} {% if messages %}
@@ -31,8 +31,8 @@
         <tbody>
           {% for job in jobs %}
           <tr>
-            <td>{{ job[0] }}</td>
             <td>{{ job[1] }}</td>
+            <td>{{ job[2] }}</td>
             <td><a href="{{ job[3] }}" target="_blank">View Job</a></td>
           </tr>
           {% else %}
