@@ -8,9 +8,8 @@ This project helps job seekers and recruiters gather job opportunities from vari
 
 ## ✨ Features
 
-- **Multi-source Job Collection**: Scrapes job listings from multiple job boards and websites
-- **Centralized Dashboard**: View all job listings in one convenient location
-- **Easy Filtering**: Search and filter jobs by title, location, and other criteria
+- **Job Collection**: Scrapes job listings from a primary job source
+- **Centralized Dashboard**: View all collected job listings in one convenient location
 - **Regular Updates**: Automatically refreshes job listings periodically
 - **User-Friendly Interface**: Simple and intuitive design for all skill levels
 
