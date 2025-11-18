@@ -11,7 +11,6 @@ def scrape_jobs():
     job_listings = soup.find_all('li', class_=job_listing_field)
 
     jobs = list(map(lambda job: extract_jobs(job), job_listings))
-    print(jobs)
     return jobs
 
 def extract_jobs(job_listing):
