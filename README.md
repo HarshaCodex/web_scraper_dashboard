@@ -86,10 +86,7 @@ Edit `scraper.py` and add a new scraper function following the existing pattern.
 
 ### Change Update Schedule
 
-Modify the scheduler interval in `app.py`:
-```python
-scheduler.add_job(scrape_jobs, 'interval', hours=6)  # Change 6 to desired hours
-```
+To modify how frequently jobs are refreshed, look for the scheduler configuration in `app.py` and adjust the time interval accordingly.
 
 ## 📝 Troubleshooting
 
