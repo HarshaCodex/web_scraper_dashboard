@@ -46,9 +46,7 @@ Before you begin, make sure you have:
 ## 📖 How to Use
 
 1. **View Jobs**: The dashboard displays all scraped job listings automatically
-2. **Search**: Use the search bar to find specific job types or companies
-3. **Filter**: Narrow down results by location, salary range, or job category
-4. **Apply**: Click on any job link to view full details and apply
+2. **Apply**: Click on any job link to view full details and apply
 
 ## 🛠️ Technical Stack
 
@@ -73,7 +71,7 @@ web_scraper_dashboard/
 
 ## 🔧 Configuration
 
-- **Update Frequency**: Jobs are refreshed every 6 hours (configurable)
+- **Update Frequency**: Jobs are refreshed every 24 hours (configurable)
 - **Job Sources**: Add or remove job sources in `scraper.py`
 - **Database Location**: Configure database path in `app.py`
 
