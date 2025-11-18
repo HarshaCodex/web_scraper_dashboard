@@ -122,4 +122,4 @@ For questions or suggestions, please reach out or open an issue in the repositor
 
 ---
 
-**Last Updated**: 2024
+**Last Updated**: 2025
