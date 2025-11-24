@@ -15,7 +15,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run the scraper
-        run: python run_scraper.py
+        run: python -m web_scraper_dashboard.auto_scraper
 
       - name: Commit updated data.json
         run: |

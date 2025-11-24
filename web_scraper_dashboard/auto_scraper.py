@@ -10,3 +10,6 @@ def job_scraper():
     jobs = scrape_jobs()
     save_jobs_to_json(jobs)
     print("Scraping completed")
+
+if __name__ == "__main__":
+    job_scraper()
