@@ -1,7 +1,5 @@
-import sqlite3
-
+import json
 from flask import Flask, render_template, flash, redirect
-
 from web_scraper_dashboard.auto_scraper import job_scraper
 
 app = Flask(__name__)
@@ -9,16 +7,11 @@ app.secret_key = 'supersecretkey'
 
 def get_jobs():
     try:
-        connection = sqlite3.connect('job_listings.db')
-        cursor = connection.cursor()
-
-        cursor.execute("SELECT * FROM jobs")
-        jobs = cursor.fetchall()
-
-        connection.close()
+        with open('data.json', 'r') as f:
+            jobs = json.load(f)
         return jobs
-    except Exception as e:
-        print("Exception occurred while getting jobs from table:", e)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
 
 @app.route('/')
 def home():

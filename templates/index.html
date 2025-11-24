@@ -31,9 +31,9 @@
         <tbody>
           {% for job in jobs %}
           <tr>
-            <td>{{ job[1] }}</td>
-            <td>{{ job[2] }}</td>
-            <td><a href="{{ job[3] }}" target="_blank">View Job</a></td>
+            <td>{{ job.title }}</td>
+            <td>{{ job.company }}</td>
+            <td><a href="{{ job.link }}" target="_blank">View Job</a></td>
           </tr>
           {% else %}
           <tr>
