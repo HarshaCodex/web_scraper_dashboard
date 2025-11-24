@@ -48,7 +48,4 @@ def refresh_jobs():
     return redirect('/')
 
 if __name__ == '__main__':
-    t = threading.Thread(target=schedule_scraper)
-    t.daemon = True
-    t.start()
-    app.run(debug=True, use_reloader=False)
+    app.run(debug=True)
