@@ -80,8 +80,3 @@ Contributions are welcome! If you have ideas for new features, find a bug, or wa
 -   Open an issue to discuss your ideas.
 -   Submit a pull request with your changes.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
