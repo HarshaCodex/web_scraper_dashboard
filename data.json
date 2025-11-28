@@ -130,6 +130,11 @@
         "link": "https://weworkremotely.com/remote-jobs/encentive-devops-engineer-w-m-d"
     },
     {
+        "company": "Mobbin",
+        "title": "UX Annotator",
+        "link": "https://weworkremotely.com/remote-jobs/mobbin-ux-annotator"
+    },
+    {
         "company": "Coders Brain Technology",
         "title": "Full Stack Web Application Engineer",
         "link": "https://weworkremotely.com/remote-jobs/coders-brain-technology-full-stack-web-application-engineer-1"
@@ -148,15 +153,5 @@
         "company": "Umpisa",
         "title": "Mid-Level Web App Developer (Remote)",
         "link": "https://weworkremotely.com/remote-jobs/umpisa-mid-level-web-app-developer-remote"
-    },
-    {
-        "company": "Mobbin",
-        "title": "UX Annotator",
-        "link": "https://weworkremotely.com/remote-jobs/mobbin-ux-annotator"
-    },
-    {
-        "company": "Lemon.io",
-        "title": "Senior Full-stack .NET Developer",
-        "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-net-developer"
     }
 ]
