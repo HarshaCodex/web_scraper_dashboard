@@ -45,6 +45,11 @@
         "link": "https://weworkremotely.com/remote-jobs/wpforms-wordpress-full-stack-developer"
     },
     {
+        "company": "A.Team",
+        "title": "Senior Independent Software Developer ($90-$170/hr)",
+        "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
+    },
+    {
         "company": "Storetasker",
         "title": "Senior Shopify Developer (Remote + Flexible)",
         "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
@@ -98,10 +103,5 @@
         "company": "Lemon.io",
         "title": "Senior Full-stack Developer",
         "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-6"
-    },
-    {
-        "company": "A.Team",
-        "title": "Senior Independent Software Developer ($90-$170/hr)",
-        "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
     }
 ]
