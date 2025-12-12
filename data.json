@@ -75,11 +75,6 @@
         "link": "https://weworkremotely.com/remote-jobs/weflow-senior-principal-software-engineer"
     },
     {
-        "company": "Spear AI",
-        "title": "Senior Full-Stack Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/spear-ai-senior-full-stack-engineer"
-    },
-    {
         "company": "DesignFiles",
         "title": "Remote Front-End Rails Developer",
         "link": "https://weworkremotely.com/remote-jobs/designfiles-remote-front-end-rails-developer"
@@ -88,15 +83,5 @@
         "company": "DesignFiles",
         "title": "Remote Growth Engineer (Full-Stack Rails)",
         "link": "https://weworkremotely.com/remote-jobs/designfiles-remote-growth-engineer-full-stack-rails"
-    },
-    {
-        "company": "Proxify AB",
-        "title": "Senior Fullstack Developer (.NET)",
-        "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-net"
-    },
-    {
-        "company": "Proxify AB",
-        "title": "Senior Fullstack Developer (React.js & Node.js)",
-        "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js"
     }
 ]
