@@ -1,10 +1,5 @@
 [
     {
-        "company": "Proxify AB",
-        "title": "Senior Fullstack Developer (Python)",
-        "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python"
-    },
-    {
         "company": "Contra",
         "title": "Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)",
         "link": "https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql"
@@ -33,6 +28,11 @@
         "company": "Sticker Mule",
         "title": "Software engineer",
         "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1"
+    },
+    {
+        "company": "Proxify AB",
+        "title": "Senior Fullstack Developer (Python)",
+        "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python"
     },
     {
         "company": "Proxify AB",
