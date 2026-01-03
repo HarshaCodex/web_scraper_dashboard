@@ -20,6 +20,11 @@
         "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer"
     },
     {
+        "company": "Storetasker",
+        "title": "Senior Shopify Developer (Remote + Flexible)",
+        "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
+    },
+    {
         "company": "WodBoard",
         "title": "Senior Rails developer",
         "link": "https://weworkremotely.com/remote-jobs/wodboard-senior-rails-developer-1"
@@ -38,10 +43,5 @@
         "company": "A.Team",
         "title": "Senior Independent Software Developer ($90-$170/hr)",
         "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
-    },
-    {
-        "company": "Storetasker",
-        "title": "Senior Shopify Developer (Remote + Flexible)",
-        "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
     }
 ]
