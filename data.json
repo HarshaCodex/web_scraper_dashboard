@@ -1,5 +1,10 @@
 [
     {
+        "company": "Zencastr",
+        "title": "Senior Fullstack Developer",
+        "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer"
+    },
+    {
         "company": "Jiga",
         "title": "Full Stack Product Engineer",
         "link": "https://weworkremotely.com/remote-jobs/jiga-full-stack-product-engineer"
@@ -18,11 +23,6 @@
         "company": "Contra",
         "title": "Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)",
         "link": "https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql"
-    },
-    {
-        "company": "Zencastr",
-        "title": "Senior Fullstack Developer",
-        "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer"
     },
     {
         "company": "Storetasker",
