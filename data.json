@@ -25,6 +25,11 @@
         "link": "https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql"
     },
     {
+        "company": "A.Team",
+        "title": "Senior Independent Software Developer ($90-$170/hr)",
+        "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
+    },
+    {
         "company": "Storetasker",
         "title": "Senior Shopify Developer (Remote + Flexible)",
         "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
@@ -43,10 +48,5 @@
         "company": "Proxify AB",
         "title": "Senior Fullstack Developer (React.js & Node.js)",
         "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-1"
-    },
-    {
-        "company": "A.Team",
-        "title": "Senior Independent Software Developer ($90-$170/hr)",
-        "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
     }
 ]
