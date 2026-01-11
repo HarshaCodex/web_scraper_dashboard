@@ -5,11 +5,6 @@
         "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer"
     },
     {
-        "company": "Jiga",
-        "title": "Full Stack Product Engineer",
-        "link": "https://weworkremotely.com/remote-jobs/jiga-full-stack-product-engineer"
-    },
-    {
         "company": "Growth Factory Ventures",
         "title": "Applied AI Engineer",
         "link": "https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer"
@@ -23,6 +18,11 @@
         "company": "A.Team",
         "title": "Senior Independent Software Developer ($90-$170/hr)",
         "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
+    },
+    {
+        "company": "Jiga",
+        "title": "Full Stack Product Engineer",
+        "link": "https://weworkremotely.com/remote-jobs/jiga-full-stack-product-engineer"
     },
     {
         "company": "Storetasker",
