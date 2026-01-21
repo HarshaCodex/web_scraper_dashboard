@@ -20,11 +20,6 @@
         "link": "https://weworkremotely.com/remote-jobs/planning-center-full-stack-engineer-ruby-on-rails-and-react"
     },
     {
-        "company": "Lemon.io",
-        "title": "Senior PHP Full-stack Developer",
-        "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer"
-    },
-    {
         "company": "Zencastr",
         "title": "Senior Fullstack Developer",
         "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer"
@@ -38,6 +33,11 @@
         "company": "Sticker Mule",
         "title": "Software engineer",
         "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1"
+    },
+    {
+        "company": "Lemon.io",
+        "title": "Senior PHP Full-stack Developer",
+        "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer"
     },
     {
         "company": "Lemon.io",
