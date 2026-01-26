@@ -10,11 +10,6 @@
         "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2"
     },
     {
-        "company": "SerpNames",
-        "title": "Passionate Full-Stack Engineer (SEO-Focused Company)",
-        "link": "https://weworkremotely.com/remote-jobs/serpnames-passionate-full-stack-engineer-seo-focused-company"
-    },
-    {
         "company": "Planning Center",
         "title": "Full Stack Engineer - Ruby on Rails and React",
         "link": "https://weworkremotely.com/remote-jobs/planning-center-full-stack-engineer-ruby-on-rails-and-react"
@@ -28,6 +23,11 @@
         "company": "Growth Factory Ventures",
         "title": "Applied AI Engineer",
         "link": "https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer"
+    },
+    {
+        "company": "SerpNames",
+        "title": "Passionate Full-Stack Engineer (SEO-Focused Company)",
+        "link": "https://weworkremotely.com/remote-jobs/serpnames-passionate-full-stack-engineer-seo-focused-company"
     },
     {
         "company": "Proxify AB",
