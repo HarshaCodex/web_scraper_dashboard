@@ -25,6 +25,11 @@
         "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer"
     },
     {
+        "company": "Storetasker",
+        "title": "Senior Shopify Developer (Remote + Flexible)",
+        "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
+    },
+    {
         "company": "SerpNames",
         "title": "Passionate Full-Stack Engineer (SEO-Focused Company)",
         "link": "https://weworkremotely.com/remote-jobs/serpnames-passionate-full-stack-engineer-seo-focused-company"
@@ -58,10 +63,5 @@
         "company": "Jiga",
         "title": "Full Stack Product Engineer",
         "link": "https://weworkremotely.com/remote-jobs/jiga-full-stack-product-engineer"
-    },
-    {
-        "company": "Storetasker",
-        "title": "Senior Shopify Developer (Remote + Flexible)",
-        "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
     }
 ]
