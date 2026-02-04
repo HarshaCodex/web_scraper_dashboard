@@ -1,5 +1,10 @@
 [
     {
+        "company": "Zencastr",
+        "title": "Senior Fullstack Developer",
+        "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer"
+    },
+    {
         "company": "OnTheGoSystems",
         "title": "Senior Ruby on Rails Developer",
         "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer"
@@ -13,11 +18,6 @@
         "company": "Planning Center",
         "title": "Full Stack Engineer - Ruby on Rails and React",
         "link": "https://weworkremotely.com/remote-jobs/planning-center-full-stack-engineer-ruby-on-rails-and-react"
-    },
-    {
-        "company": "Zencastr",
-        "title": "Senior Fullstack Developer",
-        "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer"
     },
     {
         "company": "Cortes 23",
