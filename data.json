@@ -20,6 +20,11 @@
         "link": "https://weworkremotely.com/remote-jobs/planning-center-full-stack-engineer-ruby-on-rails-and-react"
     },
     {
+        "company": "A.Team",
+        "title": "Senior Independent Software Developer ($90-$170/hr)",
+        "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
+    },
+    {
         "company": "Subscript",
         "title": "Software Engineer - Test",
         "link": "https://weworkremotely.com/remote-jobs/subscript-software-engineer-test"
@@ -63,10 +68,5 @@
         "company": "DRT FM - Humble Echo LLC",
         "title": "Low-Ego \u2022 High-Impact Junior Developer For AI Company",
         "link": "https://weworkremotely.com/remote-jobs/drt-fm-humble-echo-llc-low-ego-high-impact-junior-developer-for-ai-company"
-    },
-    {
-        "company": "A.Team",
-        "title": "Senior Independent Software Developer ($90-$170/hr)",
-        "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
     }
 ]
