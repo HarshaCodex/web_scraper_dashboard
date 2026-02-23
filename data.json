@@ -15,11 +15,6 @@
         "link": "https://weworkremotely.com/remote-jobs/silverorange-full-stack-python-web-developer"
     },
     {
-        "company": "Proxify AB",
-        "title": "Senior Fullstack Developer (Python)",
-        "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-2"
-    },
-    {
         "company": "OnTheGoSystems",
         "title": "Senior Ruby on Rails Developer",
         "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-1"
@@ -33,6 +28,11 @@
         "company": "Zencastr",
         "title": "Senior Fullstack Developer",
         "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer"
+    },
+    {
+        "company": "Proxify AB",
+        "title": "Senior Fullstack Developer (Python)",
+        "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-2"
     },
     {
         "company": "Yoko Co",
