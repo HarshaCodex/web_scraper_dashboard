@@ -5,11 +5,6 @@
         "link": "https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-4"
     },
     {
-        "company": "Summedd",
-        "title": "Full Stack Engineer with AI Coding expertise for SaaS Platform",
-        "link": "https://weworkremotely.com/remote-jobs/summedd-full-stack-engineer-with-ai-coding-expertise-for-saas-platform"
-    },
-    {
         "company": "Sticker Mule",
         "title": "Software engineer",
         "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2"
@@ -33,6 +28,11 @@
         "company": "RIDR GmbH",
         "title": "Fullstack Engineer (React Native / Convex)",
         "link": "https://weworkremotely.com/remote-jobs/ridr-gmbh-fullstack-engineer-react-native-convex"
+    },
+    {
+        "company": "Summedd",
+        "title": "Full Stack Engineer with AI Coding expertise for SaaS Platform",
+        "link": "https://weworkremotely.com/remote-jobs/summedd-full-stack-engineer-with-ai-coding-expertise-for-saas-platform"
     },
     {
         "company": "Proxify AB",
