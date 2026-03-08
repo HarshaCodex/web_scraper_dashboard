@@ -20,6 +20,11 @@
         "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-1"
     },
     {
+        "company": "A.Team",
+        "title": "Senior Independent Software Developer ($90-$170/hr)",
+        "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
+    },
+    {
         "company": "Subscript",
         "title": "Software Engineer - Test",
         "link": "https://weworkremotely.com/remote-jobs/subscript-software-engineer-test"
@@ -53,10 +58,5 @@
         "company": "Lemon.io",
         "title": "Senior Java Full-stack Developer",
         "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-full-stack-developer"
-    },
-    {
-        "company": "A.Team",
-        "title": "Senior Independent Software Developer ($90-$170/hr)",
-        "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr"
     }
 ]
