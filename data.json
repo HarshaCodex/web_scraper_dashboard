@@ -1,10 +1,5 @@
 [
     {
-        "company": "Lemon.io",
-        "title": "Senior React Full-stack Developer",
-        "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-3"
-    },
-    {
         "company": "Sticker Mule",
         "title": "Software engineer",
         "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2"
@@ -28,6 +23,11 @@
         "company": "Storetasker",
         "title": "Senior Shopify Developer (Remote + Flexible)",
         "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3"
+    },
+    {
+        "company": "Lemon.io",
+        "title": "Senior React Full-stack Developer",
+        "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-3"
     },
     {
         "company": "Nebulab",
